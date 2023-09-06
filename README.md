@@ -110,7 +110,7 @@ I am a QA Engineer.
 ### :fire: My Stats :
 <p align="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Strongcomic&theme=dark&border_radius=5&mode=weekly&background=45%2C022C2B%2C2C0328&border=D5D5D5&stroke=000000&ring=00B9B2&fire=03A7EB&currStreakLabel=03A7EB" 
-    alt="GitHub Streak">&nbsp;&nbsp;&nbsp;&nbsp;
+    alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strongcomic&layout=compact&theme=tokyonight" alt="Top Langs" height="195">
 </p>
 
