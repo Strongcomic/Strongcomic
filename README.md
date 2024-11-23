@@ -18,10 +18,7 @@
 
 ---
 
-I am a QA Engineer.
-- 📘 | I test apps like Kubernetes manages containers: with precision and control
--  📱 | Specialized in mobile testing, whether automated or hands-on
--   🌊 | Improving apps, even Jack Sparrow's wayward compass would point straight to their perfection
+I'm SDET.
 
 ---
 
